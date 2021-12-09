@@ -5,3 +5,4 @@ The hackathon involved pulling tweets within East Africa and performing sentimen
 
 I have attached the labelled data for fine tuning and training.
 Access to Twitter Dev Account Needed
+![alt tag](https://github.com/denniesbor/DARA-BIGDATA-HACKATHON/blob/main/DARA.jpg)
