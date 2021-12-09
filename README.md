@@ -7,4 +7,4 @@ I have attached the labelled data for fine tuning and training.
 Access to Twitter Dev Account Needed.
 
 
-![alt tag](https://github.com/denniesbor/DARA-BIGDATA-HACKATHON/blob/main/DARA.jpg)
+![image](https://user-images.githubusercontent.com/53889951/145454563-1f6f00e0-9d0f-485f-8f28-679e717aecd1.png)
